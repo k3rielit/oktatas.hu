@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KDKlF86mZjkxE9XTts9Rm06jObkVLzASxZfG11bLcrefFlipdZcAPBFthJcrWNpoZkJ/InntfL62zKUvYSHACw==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\cbradioOOP\\cbradioOOP\\cbradio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheHorizonLiner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

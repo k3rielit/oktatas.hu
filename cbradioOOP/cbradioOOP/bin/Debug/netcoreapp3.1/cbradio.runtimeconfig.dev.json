@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TheHorizonLiner\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TheHorizonLiner\\.nuget\\packages"
+    ]
+  }
+}
