@@ -7,7 +7,7 @@ Forrás: [Oktatási Hivatal](https://www.oktatas.hu/kozneveles/erettsegi/feladat
 | 2020. május-június     | közép (sudoku2020) ✅ / emelt (playfair2020) ✅ |
 | 2019. október-november | közép ❌ / emelt ❌ |
 | 2019. május-június     | közép ❌ / emelt ❌ |
-| 2018. október-november | közép (cbradioOOP) ✅ / emelt |
+| 2018. október-november | közép (cbradio2018) ✅ / emelt |
 | 2018. május-június     | közép ❌ / emelt (tarsalgo2018) ✅ |
 | 2017. október-november | közép ❌ / emelt ❌ |
 | 2017. május-június     | közép ❌ / emelt (txt2srt) ✅ |
