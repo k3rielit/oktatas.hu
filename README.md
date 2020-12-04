@@ -35,5 +35,5 @@ Forrás: [Oktatási Hivatal](https://www.oktatas.hu/kozneveles/erettsegi/feladat
 | 2006. október-november | ❌ ? | ❌ ? |
 | 2006. május-június     | ❌ ? | ❌ ? |
 | 2006. február-március  | ❌ ? | ❌ ? |
-| 2005. október-november | ❌ ? | ✅ vigenere2005 ✅ |
+| 2005. október-november | ❌ ? | ✅ vigenere2005 (C#)|
 | 2005. május-június     | ❌ ? | ✅ lotto2005 (C#) |
