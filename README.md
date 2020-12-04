@@ -2,37 +2,37 @@
 
 Forrás: [Oktatási Hivatal](https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok)
 
-|          Dátum         | C# megoldások |
-|:----------------------:|:-------------:|
-| 2020. május-június     | közép (sudoku2020) ✅ / emelt (playfair2020) ✅ |
-| 2019. október-november | közép ❌ / emelt ❌ |
-| 2019. május-június     | közép ❌ / emelt ❌ |
-| 2018. október-november | közép (cbradio2018) ✅ / emelt |
-| 2018. május-június     | közép (footgolf2018) ✅ / emelt (tarsalgo2018) ✅ |
-| 2017. október-november | közép ❌ / emelt ❌ |
-| 2017. május-június     | közép ❌ / emelt (txt2srt) ✅ |
-| 2016. október-november | közép ❌ / emelt ❌ |
-| 2016. május-június     | közép ❌ / emelt ❌ |
-| 2015. október-november | közép ❌ / emelt ❌ |
-| 2015. május-június     | közép ❌ / emelt ❌ |
-| 2014. október-november | közép ❌ / emelt ❌ |
-| 2014. május-június     | közép ❌ / emelt ❌ |
-| 2013. október-november | közép ❌ / emelt ❌ |
-| 2013. május-június     | közép ❌ / emelt ❌ |
-| 2012. október-november | közép ❌ / emelt ❌ |
-| 2012. május-június     | közép ❌ / emelt ❌ |
-| 2011. október-november | közép ❌ / emelt ❌ |
-| 2011. május-június     | közép ❌ / emelt ❌ |
-| 2010. október-november | közép ❌ / emelt ❌ |
-| 2010. május-június     | közép ❌ / emelt ❌ |
-| 2009. október-november | közép ❌ / emelt ❌ |
-| 2009. május-június     | közép ❌ / emelt ❌ |
-| 2008. október-november | közép ❌ / emelt ❌ |
-| 2008. május-június     | közép ❌ / emelt ❌ |
-| 2007. október-november | közép ❌ / emelt ❌ |
-| 2007. május-június     | közép ❌ / emelt ❌ |
-| 2006. október-november | közép ❌ / emelt ❌ |
-| 2006. május-június     | közép ❌ / emelt ❌ |
-| 2006. február-március  | közép ❌ / emelt ❌ |
-| 2005. október-november | közép ❌ / emelt (vigenere2005) ✅ |
-| 2005. május-június     | közép ❌ / emelt (lotto2005) ✅ |
+|          Dátum         | középszint | emelt szint |
+|:----------------------:|:-------------:|:-------------:|
+| 2020. május-június     | sudoku2020 ✅ (C#) | playfair2020 ✅ (C#) |
+| 2019. október-november | ? ❌ | ? ❌ |
+| 2019. május-június     | ? ❌ | ? ❌ |
+| 2018. október-november | cbradio2018 ✅ (C#) | ? ❌ |
+| 2018. május-június     | footgolf2018 ✅ (C#) | tarsalgo2018 ✅ (C#) |
+| 2017. október-november | ? ❌ | ? ❌ |
+| 2017. május-június     | ? ❌ | txt2srt ✅ (C#) |
+| 2016. október-november | ? ❌ | ? ❌ |
+| 2016. május-június     | ? ❌ | ? ❌ |
+| 2015. október-november | ? ❌ | ? ❌ |
+| 2015. május-június     | ? ❌ | ? ❌ |
+| 2014. október-november | ? ❌ | ? ❌ |
+| 2014. május-június     | ? ❌ | ? ❌ |
+| 2013. október-november | ? ❌ | ? ❌ |
+| 2013. május-június     | ? ❌ | ? ❌ |
+| 2012. október-november | ? ❌ | ? ❌ |
+| 2012. május-június     | ? ❌ | ? ❌ |
+| 2011. október-november | ? ❌ | ? ❌ |
+| 2011. május-június     | ? ❌ | ? ❌ |
+| 2010. október-november | ? ❌ | ? ❌ |
+| 2010. május-június     | ? ❌ | ? ❌ |
+| 2009. október-november | ? ❌ | ? ❌ |
+| 2009. május-június     | ? ❌ | ? ❌ |
+| 2008. október-november | ? ❌ | ? ❌ |
+| 2008. május-június     | ? ❌ | ? ❌ |
+| 2007. október-november | ? ❌ | ? ❌ |
+| 2007. május-június     | ? ❌ | ? ❌ |
+| 2006. október-november | ? ❌ | ? ❌ |
+| 2006. május-június     | ? ❌ | ? ❌ |
+| 2006. február-március  | ? ❌ | ? ❌ |
+| 2005. október-november | ? ❌ | vigenere2005 ✅ (C#) |
+| 2005. május-június     | ? ❌ | lotto2005 ✅ (C#) |
