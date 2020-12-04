@@ -8,7 +8,7 @@ Forrás: [Oktatási Hivatal](https://www.oktatas.hu/kozneveles/erettsegi/feladat
 | 2019. október-november | közép ❌ / emelt ❌ |
 | 2019. május-június     | közép ❌ / emelt ❌ |
 | 2018. október-november | közép (cbradio2018) ✅ / emelt |
-| 2018. május-június     | közép ❌ / emelt (tarsalgo2018) ✅ |
+| 2018. május-június     | közép (footgolf2018) ✅ / emelt (tarsalgo2018) ✅ |
 | 2017. október-november | közép ❌ / emelt ❌ |
 | 2017. május-június     | közép ❌ / emelt (txt2srt) ✅ |
 | 2016. október-november | közép ❌ / emelt ❌ |

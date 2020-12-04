@@ -1,0 +1,13 @@
+D:\Repos\footgolf2018\footgolf2018\bin\Debug\netcoreapp3.1\footgolf2018.exe
+D:\Repos\footgolf2018\footgolf2018\bin\Debug\netcoreapp3.1\footgolf2018.deps.json
+D:\Repos\footgolf2018\footgolf2018\bin\Debug\netcoreapp3.1\footgolf2018.runtimeconfig.json
+D:\Repos\footgolf2018\footgolf2018\bin\Debug\netcoreapp3.1\footgolf2018.runtimeconfig.dev.json
+D:\Repos\footgolf2018\footgolf2018\bin\Debug\netcoreapp3.1\footgolf2018.dll
+D:\Repos\footgolf2018\footgolf2018\bin\Debug\netcoreapp3.1\footgolf2018.pdb
+D:\Repos\footgolf2018\footgolf2018\obj\Debug\netcoreapp3.1\footgolf2018.csprojAssemblyReference.cache
+D:\Repos\footgolf2018\footgolf2018\obj\Debug\netcoreapp3.1\footgolf2018.AssemblyInfoInputs.cache
+D:\Repos\footgolf2018\footgolf2018\obj\Debug\netcoreapp3.1\footgolf2018.AssemblyInfo.cs
+D:\Repos\footgolf2018\footgolf2018\obj\Debug\netcoreapp3.1\footgolf2018.dll
+D:\Repos\footgolf2018\footgolf2018\obj\Debug\netcoreapp3.1\footgolf2018.pdb
+D:\Repos\footgolf2018\footgolf2018\obj\Debug\netcoreapp3.1\footgolf2018.genruntimeconfig.cache
+D:\Repos\footgolf2018\footgolf2018\obj\Debug\netcoreapp3.1\footgolf2018.csproj.CoreCompileInputs.cache
