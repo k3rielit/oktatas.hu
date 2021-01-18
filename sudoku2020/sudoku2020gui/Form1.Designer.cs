@@ -30,11 +30,11 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.LBL_hossz = new System.Windows.Forms.Label();
-            this.TBX_ujFeladvany = new System.Windows.Forms.TextBox();
+            this.Hossz = new System.Windows.Forms.Label();
+            this.Meret = new System.Windows.Forms.TextBox();
             this.BTN_kivon = new System.Windows.Forms.Button();
             this.BTN_hozzaad = new System.Windows.Forms.Button();
-            this.TBX_kezdoAllapot = new System.Windows.Forms.TextBox();
+            this.Kezdoallapot = new System.Windows.Forms.TextBox();
             this.BTN_ellenorzes = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -56,25 +56,25 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Kezdőállapot";
             // 
-            // LBL_hossz
+            // Hossz
             // 
-            this.LBL_hossz.AutoSize = true;
-            this.LBL_hossz.Location = new System.Drawing.Point(12, 101);
-            this.LBL_hossz.Name = "LBL_hossz";
-            this.LBL_hossz.Size = new System.Drawing.Size(48, 13);
-            this.LBL_hossz.TabIndex = 2;
-            this.LBL_hossz.Text = "Hossz: 0";
+            this.Hossz.AutoSize = true;
+            this.Hossz.Location = new System.Drawing.Point(12, 101);
+            this.Hossz.Name = "Hossz";
+            this.Hossz.Size = new System.Drawing.Size(48, 13);
+            this.Hossz.TabIndex = 2;
+            this.Hossz.Text = "Hossz: 0";
             // 
-            // TBX_ujFeladvany
+            // Meret
             // 
-            this.TBX_ujFeladvany.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.TBX_ujFeladvany.Location = new System.Drawing.Point(149, 6);
-            this.TBX_ujFeladvany.Name = "TBX_ujFeladvany";
-            this.TBX_ujFeladvany.ReadOnly = true;
-            this.TBX_ujFeladvany.Size = new System.Drawing.Size(23, 20);
-            this.TBX_ujFeladvany.TabIndex = 3;
-            this.TBX_ujFeladvany.Text = "4";
-            this.TBX_ujFeladvany.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Meret.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Meret.Location = new System.Drawing.Point(149, 6);
+            this.Meret.Name = "Meret";
+            this.Meret.ReadOnly = true;
+            this.Meret.Size = new System.Drawing.Size(23, 20);
+            this.Meret.TabIndex = 3;
+            this.Meret.Text = "4";
+            this.Meret.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // BTN_kivon
             // 
@@ -96,13 +96,13 @@
             this.BTN_hozzaad.UseVisualStyleBackColor = true;
             this.BTN_hozzaad.Click += new System.EventHandler(this.BTN_hozzaad_Click);
             // 
-            // TBX_kezdoAllapot
+            // Kezdoallapot
             // 
-            this.TBX_kezdoAllapot.Location = new System.Drawing.Point(15, 78);
-            this.TBX_kezdoAllapot.Name = "TBX_kezdoAllapot";
-            this.TBX_kezdoAllapot.Size = new System.Drawing.Size(497, 20);
-            this.TBX_kezdoAllapot.TabIndex = 6;
-            this.TBX_kezdoAllapot.TextChanged += new System.EventHandler(this.TBX_kezdoAllapot_TextChanged);
+            this.Kezdoallapot.Location = new System.Drawing.Point(15, 78);
+            this.Kezdoallapot.Name = "Kezdoallapot";
+            this.Kezdoallapot.Size = new System.Drawing.Size(497, 20);
+            this.Kezdoallapot.TabIndex = 6;
+            this.Kezdoallapot.TextChanged += new System.EventHandler(this.KezdoallapotChange);
             // 
             // BTN_ellenorzes
             // 
@@ -120,11 +120,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(524, 171);
             this.Controls.Add(this.BTN_ellenorzes);
-            this.Controls.Add(this.TBX_kezdoAllapot);
+            this.Controls.Add(this.Kezdoallapot);
             this.Controls.Add(this.BTN_hozzaad);
             this.Controls.Add(this.BTN_kivon);
-            this.Controls.Add(this.TBX_ujFeladvany);
-            this.Controls.Add(this.LBL_hossz);
+            this.Controls.Add(this.Meret);
+            this.Controls.Add(this.Hossz);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
@@ -138,11 +138,11 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label LBL_hossz;
-        private System.Windows.Forms.TextBox TBX_ujFeladvany;
+        private System.Windows.Forms.Label Hossz;
+        private System.Windows.Forms.TextBox Meret;
         private System.Windows.Forms.Button BTN_kivon;
         private System.Windows.Forms.Button BTN_hozzaad;
-        private System.Windows.Forms.TextBox TBX_kezdoAllapot;
+        private System.Windows.Forms.TextBox Kezdoallapot;
         private System.Windows.Forms.Button BTN_ellenorzes;
     }
 }
