@@ -1,0 +1,10 @@
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\bin\Debug\ADFGVXrejtjel2020gui.exe.config
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\bin\Debug\ADFGVXrejtjel2020gui.exe
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\bin\Debug\ADFGVXrejtjel2020gui.pdb
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\obj\Debug\ADFGVXrejtjel2020gui.csprojAssemblyReference.cache
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\obj\Debug\ADFGVXrejtjel2020gui.Form1.resources
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\obj\Debug\ADFGVXrejtjel2020gui.Properties.Resources.resources
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\obj\Debug\ADFGVXrejtjel2020gui.csproj.GenerateResource.cache
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\obj\Debug\ADFGVXrejtjel2020gui.csproj.CoreCompileInputs.cache
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\obj\Debug\ADFGVXrejtjel2020gui.exe
+D:\Repos\oktatas.hu\ADFGVXrejtjel2020gui\ADFGVXrejtjel2020gui\obj\Debug\ADFGVXrejtjel2020gui.pdb
