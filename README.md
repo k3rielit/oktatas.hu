@@ -1,16 +1,5 @@
 ## OKTATAS.HU
-## Megoldás lekérő:
-Egy bármilyen megnyitott oktatas.hu-s pdf oldalra 2 gombot rak. Az első megnyitja új lapon a feladat megoldókulcs párját, a második fél képernyőre rakja azt, ami ki-be kapcsolható.
 
-**Telepítés**:
-1. Tampermonkey telepítése a böngészőbe. ([Link](https://www.tampermonkey.net))
-2. Jobb fent a Tampermonkey ikonra kattintva a Kezelő fal megnyitása.
-3. A Segédprogramok menü megnyitása.
-4. Install from URL-hez `https://raw.githubusercontent.com/ahurkatolto/oktatas.hu/master/oktatas_hu.js` és Telepítés.
-5. Ismét, Telepítés.
-6. Kész, be lehet zárni a Tampermonkey ablakot, mostmár magától működik.
-
-## Saját megoldások:
 Forrás: [Oktatási Hivatal](https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok)
 
 |          Dátum         | középszint | emelt szint |
